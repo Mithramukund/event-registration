@@ -1,26 +1,25 @@
-# Event Registration Web Application
-
-## AIM:
+#Event Registration Web Application
+##AIM:
 To design, develop and deploy a web application for event registration.
 
-## DESIGN STEPS:
+##DESIGN STEPS:
+###Step 1:
+Go to the figma.com website.
 
-### Step 1:
+###Step 2:
+login and create a team project.
 
+###Step 3:
+Each team members can take part in designing the pages.
 
-### Step 2:
+###Step 4:
+Create login page, home page, report page, registration page and thank you page.
 
+###Step 5:
+Prototype the pages.
 
-### Step 3:
-
-
-### Step 4:
-
-
-### Step 5:
-
-### Step 6:
-
+###Step 6:
+Publish the website in the given URL.
 Validate the HTML and CSS code.
 
 ### Step 6:
